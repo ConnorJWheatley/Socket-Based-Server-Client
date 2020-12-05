@@ -1,2 +1,2 @@
 # Socket-Based-Server-Client
-This is a socket based server that runs an extremely basic concept of trading stock.
+This is a socket based server that can host clients that can simulate sending "stock" to each other.
